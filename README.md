@@ -2,7 +2,7 @@
 
 **A simple model with treasury implications** — companion code to the paper by Marco Fantin (MSc in Finance, HEC Lausanne, 2026).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USERNAME/bank-run-transparency/HEAD?labpath=bank_run_explorer.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mafantin/bank-run-transparency/HEAD?labpath=bank_run_explorer.ipynb)
 
 Click the badge above to open the interactive model in your browser, with no installation required (the first launch may take a minute).
 
