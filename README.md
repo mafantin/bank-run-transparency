@@ -1,5 +1,7 @@
 # Transparency, Confidence and Bank Runs
 
+BEFORE TESTING THE MODEL, READ THE PROJECT PAPER_BANK_RUNS.pdf 
+
 **A simple model with treasury implications** — companion code to the paper by Marco Fantin (MSc in Finance, HEC Lausanne, 2026).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mafantin/bank-run-transparency/HEAD?labpath=bank_run_explorer.ipynb)
